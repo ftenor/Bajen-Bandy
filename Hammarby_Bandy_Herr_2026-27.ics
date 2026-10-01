@@ -1,0 +1,338 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hammarby Bandy//Herr 2026-27//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hammarby Bandy Herr 2026/27
+X-WR-TIMEZONE:Europe/Stockholm
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-1@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20260828T190000
+DTEND;TZID=Europe/Stockholm:20260828T210000
+SUMMARY:Tillberga – Hammarby
+LOCATION:ABB Arena Syd
+DESCRIPTION:Svenska Cupen\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-2@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20260905T162000
+DTEND;TZID=Europe/Stockholm:20260905T182000
+SUMMARY:Hammarby – Broberg
+LOCATION:Gubbängens Bandyhall
+DESCRIPTION:Svenska Cupen\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-3@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20260912T140000
+DTEND;TZID=Europe/Stockholm:20260912T160000
+SUMMARY:Hammarby – Sandviken
+LOCATION:Gubbängens Bandyhall
+DESCRIPTION:Svenska Cupen\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-4@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20260915T190000
+DTEND;TZID=Europe/Stockholm:20260915T210000
+SUMMARY:Bollnäs – Hammarby
+LOCATION:SBB Arena
+DESCRIPTION:Svenska Cupen\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-5@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20260919T140000
+DTEND;TZID=Europe/Stockholm:20260919T160000
+SUMMARY:Hammarby – Edsbyn
+LOCATION:Gubbängens Bandyhall
+DESCRIPTION:Svenska Cupen\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-6@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20260923T190000
+DTEND;TZID=Europe/Stockholm:20260923T210000
+SUMMARY:Sirius – Hammarby
+LOCATION:Serwenthallen
+DESCRIPTION:Svenska Cupen\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-7@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261009T190000
+DTEND;TZID=Europe/Stockholm:20261009T210000
+SUMMARY:Hammarby – Sirius
+LOCATION:Gubbängshallen
+DESCRIPTION:Träningsmatch\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-8@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261016T190000
+DTEND;TZID=Europe/Stockholm:20261016T210000
+SUMMARY:Vänersborg – Hammarby
+LOCATION:Arena Vänersborg
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-9@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261023T190000
+DTEND;TZID=Europe/Stockholm:20261023T210000
+SUMMARY:Gripen – Hammarby
+LOCATION:Slättbergshallen
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-10@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261031T140000
+DTEND;TZID=Europe/Stockholm:20261031T160000
+SUMMARY:Hammarby – Åby/Tjureda
+LOCATION:Gubbängens Bandyhall
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-11@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261103T190000
+DTEND;TZID=Europe/Stockholm:20261103T210000
+SUMMARY:Sandviken – Hammarby
+LOCATION:Göransson Arena
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-12@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261107T180000
+DTEND;TZID=Europe/Stockholm:20261107T200000
+SUMMARY:Edsbyn – Hammarby
+LOCATION:Svenska Fönster Arena
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-13@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261113T190000
+DTEND;TZID=Europe/Stockholm:20261113T210000
+SUMMARY:Hammarby – Frillesås
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-14@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261117T190000
+DTEND;TZID=Europe/Stockholm:20261117T210000
+SUMMARY:Hammarby – Sirius
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-15@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261120T190000
+DTEND;TZID=Europe/Stockholm:20261120T210000
+SUMMARY:Broberg – Hammarby
+LOCATION:Helsingehus Arena
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-16@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261124T190000
+DTEND;TZID=Europe/Stockholm:20261124T210000
+SUMMARY:Hammarby – Vetlanda
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-17@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261127T190000
+DTEND;TZID=Europe/Stockholm:20261127T210000
+SUMMARY:Tillberga – Hammarby
+LOCATION:ABB Arena Syd
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-18@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261202T190000
+DTEND;TZID=Europe/Stockholm:20261202T210000
+SUMMARY:Hammarby – Bollnäs
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-19@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261205T150000
+DTEND;TZID=Europe/Stockholm:20261205T170000
+SUMMARY:Västerås – Hammarby
+LOCATION:ABB Arena Syd
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-20@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261211T190000
+DTEND;TZID=Europe/Stockholm:20261211T210000
+SUMMARY:Hammarby – Villa Lidköping
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-21@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261218T201500
+DTEND;TZID=Europe/Stockholm:20261218T221500
+SUMMARY:Hammarby – Broberg
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-22@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261226T131500
+DTEND;TZID=Europe/Stockholm:20261226T151500
+SUMMARY:Sirius – Hammarby
+LOCATION:Studenternas
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-23@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20261231T131500
+DTEND;TZID=Europe/Stockholm:20261231T151500
+SUMMARY:Hammarby – Västerås
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-24@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20270102T190000
+DTEND;TZID=Europe/Stockholm:20270102T210000
+SUMMARY:Bollnäs – Hammarby
+LOCATION:SBB Arena
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-25@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20270105T190000
+DTEND;TZID=Europe/Stockholm:20270105T210000
+SUMMARY:Hammarby – Gripen
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-26@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20270108T190000
+DTEND;TZID=Europe/Stockholm:20270108T210000
+SUMMARY:Villa Lidköping – Hammarby
+LOCATION:Sparbanken Lidköping Arena
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-27@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20270115T190000
+DTEND;TZID=Europe/Stockholm:20270115T210000
+SUMMARY:Hammarby – Edsbyn
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-28@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20270127T190000
+DTEND;TZID=Europe/Stockholm:20270127T210000
+SUMMARY:Frillesås – Hammarby
+LOCATION:Sjöaremossen
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-29@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20270130T150000
+DTEND;TZID=Europe/Stockholm:20270130T170000
+SUMMARY:Hammarby – Sandviken
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-30@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20270202T190000
+DTEND;TZID=Europe/Stockholm:20270202T210000
+SUMMARY:Hammarby – Tillberga
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-31@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20270205T190000
+DTEND;TZID=Europe/Stockholm:20270205T210000
+SUMMARY:Vetlanda – Hammarby
+LOCATION:Hydro Arena
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-32@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20270209T190000
+DTEND;TZID=Europe/Stockholm:20270209T210000
+SUMMARY:Åby/Tjureda – Hammarby
+LOCATION:Eriksson Arena
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hammarby-bandy-2026-27-33@hammarbybandy.se
+DTSTAMP:20261001T143004
+DTSTART;TZID=Europe/Stockholm:20270212T190000
+DTEND;TZID=Europe/Stockholm:20270212T210000
+SUMMARY:Hammarby – Vänersborg
+LOCATION:Zinkensdamm
+DESCRIPTION:Elitserien\nSpelschema: https://hammarbybandy.se/spelschema-3-3-3-2/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
